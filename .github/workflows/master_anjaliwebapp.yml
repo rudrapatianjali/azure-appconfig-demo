@@ -61,4 +61,4 @@ jobs:
           app-name: 'anjaliwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB1CFE4AAF764708B50EFA867C578A76 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C3167478AE8450E86F8792ADB8C794C }}
